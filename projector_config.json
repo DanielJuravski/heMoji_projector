@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "heMoji tensor",
+      "tensorShape": [
+        64,
+        1024
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/DanielJuravski/heMoji_projector/master/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/DanielJuravski/heMoji_projector/master/metadata.tsv"
+    }
+  ]
+}
